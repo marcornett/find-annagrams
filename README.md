@@ -1,22 +1,20 @@
-https://marcornett.gitlab.io/anagrams-1-assessment/
-
 # Program Plan
 
 1.  Read the requirements document in detail.
-    * Take notes of things you'll need to do
-    * Write down any questions
+    - Take notes of things you'll need to do
+    - Write down any questions
 2.  Get the answers to your questions!
 3.  Make a development plan
-    * Describe the entire behavior of your program in 3 (or at most 4) steps
-    * Break down each step into 3 (or 4) steps
-    * Repeat until each step is obvious how to code it
+    - Describe the entire behavior of your program in 3 (or at most 4) steps
+    - Break down each step into 3 (or 4) steps
+    - Repeat until each step is obvious how to code it
 4.  Write the code!
 
-1.  How do I access the words.js in my javascript file to compare the input to the list?
-2.  How do I understand the instruction better so I can visualize the order of how these functions should be written?
-
+5.  How do I access the words.js in my javascript file to compare the input to the list?
+6.  How do I understand the instruction better so I can visualize the order of how these functions should be written?
 
 # Development Plan
+
 1.  Collect user inputted data
     1.  Create a input and button tag.
     2.  Activate a function once clicked
